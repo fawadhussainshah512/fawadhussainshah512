@@ -1,6 +1,6 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://FawadHussainShah512.io)
 <h1 align="center">Hi 👋, I'm Fawad Hussain Shah</h1>
-<h3 align="center">A Passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A Passionate Mobile Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Chashmart**
 
