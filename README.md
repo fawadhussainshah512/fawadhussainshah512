@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Chashmart**
 
-- 💬 Ask me about **Recommendation Systems,Machine Learning,Flutter**
+- 💬 Ask me about **Mobile Applications,Machine Learning**
 
 - 📫 How to reach me **fawadhussain1472@gmail.com**
 
